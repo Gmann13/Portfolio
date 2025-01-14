@@ -1,12 +1,11 @@
-
 ## Data Analyst, Business Analyst, Data scientist and ML Engineer
 
 #### Technical Skills: Python, SQL, Tableau, Power BI
 
 ## Education
 
-- M.S., Engineering Management	| Northeastern University	
-- B.S., Mechatronics Engineering | Ganpat University
+- M.S., Engineering Management, Northeastern University	
+- B.S., Mechatronics Engineering, Ganpat University
 
 ## Work Experience
 

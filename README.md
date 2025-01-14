@@ -1,4 +1,4 @@
-# Gajjar Mann Bipinchandra
+
 ## Data Analyst, Business Analyst, Data scientist and ML Engineer
 
 #### Technical Skills: Python, SQL, Tableau, Power BI
